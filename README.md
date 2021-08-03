@@ -10,7 +10,9 @@ Images of the blood that are homogeneously colored are the uninfected samples, a
 <img width="566" alt="Screenshot 2021-08-03 at 7 53 14 PM" src="https://user-images.githubusercontent.com/42439148/128032319-04a9843a-23a1-4b82-aedf-ddcb90e3b945.png">
 
 
+
 The model is also available on this notebook: https://colab.research.google.com/drive/1Wb4e0J2VnuTW8AJ-Vcau9xeTczEI5O1n#scrollTo=3let-LNdXnLC
+
 
 
 Reference and resources: 
