@@ -1,1 +1,1 @@
-# malaria-detection
+# Medical Image Analysis For Malaria Detection
